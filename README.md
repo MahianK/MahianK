@@ -2,7 +2,8 @@
 <h3 align="center">A passionate Full-stack developer from New York</h3>
 
 # 💫 About Me:
-🔭 I’m currently working on Computer Labs<br>🌱 I’m currently learning React<br>💬 Ask me about Java, Python, C++, SQL<br>📫 How to reach me mkhan042@citymail.cuny.edu<br><br>
+🔭 I’m currently working on [Computer Labs](https://github.com/MahianK/Computer-Labs)
+<br>🌱 I’m currently learning React<br>💬 Ask me about Java, Python, C++, SQL<br>📫 How to reach me mkhan042@citymail.cuny.edu<br><br>
 
 
 ## 🌐 Socials:
