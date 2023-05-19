@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mahian</h1>
-<h3 align="center">A passionate backend developer from New York</h3>
+<h3 align="center">A passionate Full-stack developer from New York</h3>
 
 - 🔭 I’m currently working on [Computer Labs](https://github.com/MahianK/Computer-Labs)
 
